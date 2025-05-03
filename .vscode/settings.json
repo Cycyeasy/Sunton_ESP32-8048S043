@@ -1,0 +1,7 @@
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ],
+    "idf.pythonInstallPath": "/usr/bin/python",
+    "nrf-connect.toolchain.path": "/workspaces/Sunton_ESP32-8048S043/.github"
+}

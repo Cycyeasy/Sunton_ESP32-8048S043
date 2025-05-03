@@ -992,5 +992,16 @@
 		"ghcr.io/prplecake/devcontainer-features/dart-sass:1": {},
 		"ghcr.io/grafana/devcontainer-features/k6:1": {},
 		"ghcr.io/grafana/devcontainer-features/xk6:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"github.vscode-github-actions",
+				"DavidAnson.vscode-markdownlint",
+				"eamodio.gitlens",
+				"platformio.platformio-ide",
+				"kakha13.espeasy-rules-highlighter"
+			]
+		}
 	}
 }
